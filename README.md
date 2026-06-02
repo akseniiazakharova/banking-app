@@ -26,6 +26,7 @@ A desktop banking application developed as a study project. The application serv
 
 ## 📂 Project Structure
 
+```text
 src/main/java/com/bankapp/
 ├── model/       # Domain models (Customer, Account, Transaction)
 ├── dao/         # Data Access Object layer (CustomerDao, AccountDao)
