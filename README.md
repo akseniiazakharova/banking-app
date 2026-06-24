@@ -1,6 +1,6 @@
 # 🏦 BankApp
 
-A desktop banking application developed as a study project for practical training at **Ordix AG Paderborn**. The application serves as a client management and banking operations tool.
+A desktop banking application developed as a study project. The application serves as a client management and banking operations tool.
 
 ---
 
